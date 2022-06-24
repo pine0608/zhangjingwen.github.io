@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ text-decoration:none; color:#000}
+html{ background:#eee}
+body{ width:960px; margin:10px auto; line-height:21px; background:#fff; border:#33CCFF solid 10px;}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{ width:250px; margin:40px auto}
+.banner{ position:relative}
+
+.menu{ width:100%; background:#eee; border-bottom:#CCCCCC solid 1px; text-align:center; float:left; }
+.menu li a{ color:#fff}.menu li { background:#33CCFF; display:inline-block; padding:10px 30px ; width:100px}
+
+.right{ float:right; width:660px; padding:20px}
+.left{ min-height:300px; float:left; width:260px; padding:20px}
+.content{ background:#fff; font-size:14px; display:inline-block ; width:100%}
+.index{ clear:both; padding:40px 0; border-bottom:#ccc dashed 1px}
+.end{ clear:both; background:#33CCFF; color:#fff; padding:30px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px 70px; display:block}
+.pics p{ margin:20px; text-align:center}
+
+.main{ margin:20px 70px}
+
+.index img{ margin-right:50px}.index  h3{ margin-bottom:20px}.index .fr{ margin-right:0; margin-left:50px}
+.imglist{  margin:0 auto}
+.imglist li{ float:left; width:350px; margin:30px ; text-align:center}
+
+.news li{ padding:5px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}.fr{ float:right}
+
+.msg>div{ padding:10px}
+
+.bar{ border:#000 solid 1px; margin:20px 70px; font-weight:bold; padding:5px}
